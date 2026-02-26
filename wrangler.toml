@@ -6,7 +6,7 @@ compatibility_date = "2024-01-01"
 # "MY_BOOKMARKS" 是代码中使用的变量名
 # "id" 需要在 Cloudflare  dashboard 创建 KV 后填入，或者部署时自动创建
 kv_namespaces = [
-  { binding = "MY_BOOKMARKS", id = "YOUR_KV_ID_PLACEHOLDER", preview_id = "YOUR_PREVIEW_KV_ID" }
+  { binding = "MY_BOOKMARKS", id = "d1ea1520984449e1afbc57664cb118ca", preview_id = "YOUR_PREVIEW_KV_ID" }
 ]
 
 # 如果你希望第一次部署自动创建 KV，可以使用 wrangler CLI 创建，
