@@ -1,4 +1,4 @@
-name = "smart-nav-page"
+name = "my-nav-page"
 main = "src/index.js"
 compatibility_date = "2024-01-01"
 
