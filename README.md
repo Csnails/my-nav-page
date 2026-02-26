@@ -1,2 +1,8 @@
 # my-nav-page
 书签管理
+
+# 变量
+需要设置变量
+<img width="914" height="187" alt="image" src="https://github.com/user-attachments/assets/485f05f8-367f-4723-b68c-8091d3ef9c5b" />
+需要绑定KV，可不用初始化
+<img width="978" height="92" alt="image" src="https://github.com/user-attachments/assets/c0ead817-f68b-4618-8965-e64156814c9c" />
